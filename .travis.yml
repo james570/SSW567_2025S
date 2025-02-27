@@ -1,0 +1,2 @@
+script:
+  - python -m unittest discover HW04a
