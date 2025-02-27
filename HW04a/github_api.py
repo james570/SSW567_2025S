@@ -24,7 +24,7 @@ def get_github_repos_commits(user_id):
 
     return result
 
-# 測試
+# Test
 if __name__ == "__main__":
     user = "richkempinski"
     print(get_github_repos_commits(user))
