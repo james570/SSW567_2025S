@@ -1,2 +1,9 @@
+language: python
+python:
+  - "3.8"
+
+install:
+  - pip install requests
+
 script:
-  - python -m unittest discover HW04a
+  - python -m unittest discover HW4a
