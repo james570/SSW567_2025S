@@ -1,6 +1,6 @@
 import unittest
 import pytest
-from classify_triangle import classify_triangle  
+from classify_triangle import classify_triangle  # 引用你的 classify_triangle 函數
 
 class TestClassifyTriangle(unittest.TestCase):
     def test_equilateral(self):
