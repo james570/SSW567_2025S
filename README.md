@@ -1,1 +1,1 @@
-[![Build Status](https://travis-ci.com/[你的GitHub帳號/你的repo.svg?branch=hw4a_branch](https://github.com/james570/SSW567_2025S/tree/main/HW04a))](https://travis-ci.com/[你的GitHub帳號/你的repo](https://github.com/james570/SSW567_2025S/tree/main/HW04a))
+[![Build Status](https://travis-ci.com/james570/SSW567_2025S/tree/main/HW04a)](https://travis-ci.com/james570/SSW567_2025S/tree/main/HW04a)
